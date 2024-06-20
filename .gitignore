@@ -132,7 +132,7 @@ do{
         cout<<"c. Determinar Promedio Global de la Clase"<<endl;
         cout<<"d. Determinar los 3 primeros Lugares de la Clase"<<endl;
         cout<<"e. Salir del Sistema. \n"<<endl;
-        cout<<"Ingrese la opcion seleccionada: ";
+        cout<<"Ingrese la opcion seleccionadagtrhrth: ";
         cin>>menu;
         switch(menu)
         {
